@@ -2,7 +2,7 @@
 
 O objetivo desta atividade é fazer vocês exercitarem um pouco de programação utilizando a linguagem [**Python**](https://www.python.org/).
 
-Os problemas do advent-of-code são encontrados no site: [Advent of Code]([adventofcode.com/](https://adventofcode.com/)).
+Os problemas do advent-of-code são encontrados no site: [Advent of Code](<[adventofcode.com/](https://adventofcode.com/)>).
 
 A estrutura dos códigos deve ser criado de acordo com o dia e os códigos. Vide exemplo para os dias 01 e 02 no repositório:
 
@@ -16,3 +16,13 @@ A estrutura dos códigos deve ser criado de acordo com o dia e os códigos. Vide
     - solution_part_i.py
     - solution_part_ii.py
 ```
+
+## Como usar
+
+Cada resolução deve receber o input no stdin.
+
+Exemplos:
+
+`cat sample.in | python solution_part_i.py`
+
+`python solution_part_i.py < sample.in`
